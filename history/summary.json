@@ -1,5 +1,23 @@
 [
   {
+    "name": "LeadsMiner Frontend",
+    "url": "https://www.leadsminer.app/",
+    "icon": "https://icons.duckduckgo.com/ip3/www.leadsminer.app.ico",
+    "slug": "leads-miner-frontend",
+    "status": "up",
+    "uptime": "100.00%",
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "100.00%",
+    "uptimeMonth": "100.00%",
+    "uptimeYear": "100.00%",
+    "time": 241,
+    "timeDay": 241,
+    "timeWeek": 241,
+    "timeMonth": 241,
+    "timeYear": 241,
+    "dailyMinutesDown": {}
+  },
+  {
     "name": "LeadGen API (Primary Backend)",
     "url": "https://leadgen-api.fly.dev/healthz",
     "icon": "https://icons.duckduckgo.com/ip3/leadgen-api.fly.dev.ico",
@@ -10,11 +28,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 203,
-    "timeDay": 203,
-    "timeWeek": 203,
-    "timeMonth": 203,
-    "timeYear": 203,
+    "time": 182,
+    "timeDay": 182,
+    "timeWeek": 182,
+    "timeMonth": 182,
+    "timeYear": 182,
     "dailyMinutesDown": {}
   },
   {
@@ -28,11 +46,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 868,
-    "timeDay": 868,
-    "timeWeek": 868,
-    "timeMonth": 868,
-    "timeYear": 868,
+    "time": 798,
+    "timeDay": 798,
+    "timeWeek": 798,
+    "timeMonth": 798,
+    "timeYear": 798,
     "dailyMinutesDown": {}
   }
 ]
