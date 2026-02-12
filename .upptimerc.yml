@@ -1,6 +1,9 @@
-# Upptime Configuration
 owner: TeamHema
 repo: leadminer-status
+
+assignees:
+  - CodeChef69
+  - 0xhema
 
 sites:
   - name: LeadGen API (Primary Backend)
@@ -12,12 +15,7 @@ sites:
     check: "http"
 
 status-website:
-  # If you DO have a custom domain, uncomment and set that
-  # cname: status.yourdomain.com
-
-  # If you do NOT have a custom domain:
   baseUrl: /leadminer-status
-
   logoUrl: https://raw.githubusercontent.com/upptime/upptime.js.org/master/static/img/icon.svg
   name: LeadsMiner Status
   introTitle: "**LeadsMiner Infrastructure Status**"
