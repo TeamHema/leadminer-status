@@ -4,9 +4,9 @@ repo: leadminer-status
 
 sites:
   - name: LeadGen API (Primary Backend)
-    url: https://leadgen-api.fly.dev/
+    url: https://leadgen-api.fly.dev/healthz
 
-  - name: ClickHouse Admin UI
+  - name: ClickHouse Database
     url: https://clickhouse-fly-leadminer-prod.fly.dev/
     port: 443
     check: "http"
