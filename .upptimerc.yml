@@ -6,6 +6,9 @@ assignees:
   - 0xhema
 
 sites:
+  - name: LeadsMiner Frontend
+    url: https://www.leadsminer.app/
+
   - name: LeadGen API (Primary Backend)
     url: https://leadgen-api.fly.dev/healthz
 
@@ -20,8 +23,8 @@ status-website:
   name: LeadsMiner Status
   introTitle: "**LeadsMiner Infrastructure Status**"
   introMessage: >
-    This status page shows uptime metrics for LeadsMiner services
-    including the backend API and ClickHouse admin UI, powered entirely by GitHub and Upptime.
+    Real-time monitoring for LeadsMiner production services
+    including frontend, backend API, and ClickHouse database.
 
   navbar:
     - title: Status
