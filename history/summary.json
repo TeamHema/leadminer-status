@@ -5,16 +5,16 @@
     "icon": "https://icons.duckduckgo.com/ip3/www.leadsminer.app.ico",
     "slug": "leads-miner-frontend",
     "status": "up",
-    "uptime": "99.91%",
+    "uptime": "99.92%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "99.82%",
-    "uptimeMonth": "99.91%",
-    "uptimeYear": "99.91%",
-    "time": 672,
-    "timeDay": 440,
-    "timeWeek": 678,
-    "timeMonth": 672,
-    "timeYear": 672,
+    "uptimeMonth": "99.92%",
+    "uptimeYear": "99.92%",
+    "time": 668,
+    "timeDay": 598,
+    "timeWeek": 638,
+    "timeMonth": 668,
+    "timeYear": 668,
     "dailyMinutesDown": {
       "2026-02-25": 18
     }
@@ -30,11 +30,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 163,
-    "timeDay": 91,
-    "timeWeek": 108,
-    "timeMonth": 163,
-    "timeYear": 163,
+    "time": 162,
+    "timeDay": 157,
+    "timeWeek": 121,
+    "timeMonth": 162,
+    "timeYear": 162,
     "dailyMinutesDown": {}
   },
   {
@@ -48,11 +48,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 706,
-    "timeDay": 599,
-    "timeWeek": 643,
-    "timeMonth": 706,
-    "timeYear": 706,
+    "time": 715,
+    "timeDay": 874,
+    "timeWeek": 672,
+    "timeMonth": 715,
+    "timeYear": 715,
     "dailyMinutesDown": {}
   }
 ]
