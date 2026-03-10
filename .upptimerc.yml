@@ -12,11 +12,6 @@ sites:
   - name: LeadMiner API (Rust Backend)
     url: https://leadminer-api-rust.fly.dev/api/v1/health
 
-  - name: LeadMiner PostgreSQL
-    url: leadminer-postgres.fly.dev
-    port: 5432
-    check: "tcp"
-
 status-website:
   baseUrl: /leadminer-status
   logoUrl: https://raw.githubusercontent.com/upptime/upptime.js.org/master/static/img/icon.svg
