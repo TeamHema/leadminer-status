@@ -13,7 +13,7 @@ sites:
     url: https://leadminer-api-rust.fly.dev/api/v1/health
 
   - name: LeadMiner PostgreSQL
-    url: https://leadminer-postgres.fly.dev
+    url: leadminer-postgres.fly.dev
     port: 5432
     check: "tcp"
 
