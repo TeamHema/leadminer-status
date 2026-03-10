@@ -10,11 +10,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "99.92%",
     "uptimeYear": "99.92%",
-    "time": 652,
-    "timeDay": 469,
-    "timeWeek": 634,
-    "timeMonth": 652,
-    "timeYear": 652,
+    "time": 639,
+    "timeDay": 409,
+    "timeWeek": 594,
+    "timeMonth": 639,
+    "timeYear": 639,
     "dailyMinutesDown": {
       "2026-02-28": 11,
       "2026-02-25": 18
@@ -31,31 +31,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 788,
-    "timeDay": 788,
-    "timeWeek": 788,
-    "timeMonth": 788,
-    "timeYear": 788,
+    "time": 865,
+    "timeDay": 865,
+    "timeWeek": 865,
+    "timeMonth": 865,
+    "timeYear": 865,
     "dailyMinutesDown": {}
-  },
-  {
-    "name": "LeadMiner PostgreSQL",
-    "url": "leadminer-postgres.fly.dev",
-    "icon": "https://icons.duckduckgo.com/ip3/null.ico",
-    "slug": "lead-miner-postgre-sql",
-    "status": "down",
-    "uptime": "2.66%",
-    "uptimeDay": "2.66%",
-    "uptimeWeek": "2.66%",
-    "uptimeMonth": "2.66%",
-    "uptimeYear": "2.66%",
-    "time": 0,
-    "timeDay": 0,
-    "timeWeek": 0,
-    "timeMonth": 0,
-    "timeYear": 0,
-    "dailyMinutesDown": {
-      "2026-03-10": 5
-    }
   }
 ]
