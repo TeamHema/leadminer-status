@@ -9,22 +9,23 @@ sites:
   - name: LeadsMiner Frontend
     url: https://www.leadsminer.app/
 
-  - name: LeadGen API (Primary Backend)
-    url: https://leadgen-api.fly.dev/healthz
+  - name: LeadMiner API (Rust Backend)
+    url: https://leadminer-api-rust.fly.dev/api/v1/health
 
-  - name: ClickHouse Database
-    url: https://clickhouse-fly-leadminer-prod.fly.dev/
-    port: 443
-    check: "http"
+  - name: LeadMiner PostgreSQL
+    url: https://leadminer-postgres.fly.dev
+    port: 5432
+    check: "tcp"
 
 status-website:
   baseUrl: /leadminer-status
   logoUrl: https://raw.githubusercontent.com/upptime/upptime.js.org/master/static/img/icon.svg
   name: LeadsMiner Status
+
   introTitle: "**LeadsMiner Infrastructure Status**"
   introMessage: >
-    Real-time monitoring for LeadsMiner production services
-    including frontend, backend API, and ClickHouse database.
+    Real-time monitoring for LeadsMiner production services,
+    including frontend, Rust backend API, and PostgreSQL database.
 
   navbar:
     - title: Status
