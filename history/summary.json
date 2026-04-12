@@ -26,7 +26,7 @@
     "url": "https://leadminer-api-rust.fly.dev/api/v1/health",
     "icon": "https://icons.duckduckgo.com/ip3/leadminer-api-rust.fly.dev.ico",
     "slug": "lead-miner-api-rust-backend",
-    "status": "up",
+    "status": "down",
     "uptime": "99.93%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
@@ -38,6 +38,7 @@
     "timeMonth": 1053,
     "timeYear": 1029,
     "dailyMinutesDown": {
+      "2026-04-12": 0,
       "2026-03-28": 34
     }
   }
